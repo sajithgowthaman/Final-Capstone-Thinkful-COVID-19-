@@ -3,9 +3,7 @@
 
 • **Outcome of the project:**
 
-• **Built a regression model to predict the positive cases of the COVID-19, as it has become a pandemic, leveraged the applications of supervised learning's regression algorithms, convolutional neural network, to come up with useful insights**
-
-• **The regressiong model accuracy was cross validated using K-fold evaluation for measuring 5 accuracies to achieve 90% + accuracy.**
+• **Built a regression model to predict the positive cases of the COVID-19, as it has become a pandemic, leveraged the applications of Convolutional Neural Network, ARIMA and FB Prophet algorithms to come up with useful insights**
 
 • **Visualized the data by grouping the COVID-19 cases statewise, using matplotlib, plotly and seaborn.**
 
